@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sankarshan Karmakar</h1>
 <h3 align="center">A Designer,Coder and Video Editor from India.</h3>
-
+<img align="right" alt="coding width="400" src="https://www.deviantart.com/pixeljeff/art/Coding-990517671">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankarshan2006&label=Profile%20views&color=0e75b6&style=flat" alt="sankarshan2006" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankarshan2006" alt="sankarshan2006" /></a> </p>
