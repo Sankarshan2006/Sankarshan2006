@@ -29,4 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankarshan2006&show_icons=true&locale=en" alt="sankarshan2006" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankarshan2006&" alt="sankarshan2006" /></p>
-<img align="centre" alt="coding" width="600" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/a436a063342391.5aad81e56e7ee.gif">
+<div align="center">
+  <img alt="coding" width="600" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/a436a063342391.5aad81e56e7ee.gif">
+</div>
+
