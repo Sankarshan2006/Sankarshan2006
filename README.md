@@ -1,4 +1,4 @@
-![Masterhead]("D:\GIFS\A-ezgif.com-optimize.gif")
+![Masterhead](D:\GIFS\A-ezgif.com-optimize.gif)
 <h1 align="center">Hi 👋, I'm Sankarshan Karmakar</h1>
 <h3 align="center">A Designer,Coder and Video Editor from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankarshan2006&label=Profile%20views&color=0e75b6&style=flat" alt="sankarshan2006" /> </p>
