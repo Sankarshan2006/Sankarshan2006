@@ -35,12 +35,18 @@
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!-- Centered GitHub Stats -->
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sankarshan2006&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankarshan2006&" alt="sankarshan2006" /></p>
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankarshan2006&" alt="GitHub Streak Stats" />
+</p>
+
+<!-- Animated Coding GIF -->
 <div align="center">
-  <img alt="coding" width="600" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/a436a063342391.5aad81e56e7ee.gif">
+  <img alt="coding" width="600" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/a436a063342391.5aad81e56e7ee.gif" />
 </div>
 
