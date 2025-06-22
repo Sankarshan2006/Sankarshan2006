@@ -1,4 +1,8 @@
-![MasterHead](https://github.com/Sankarshan2006/Sankarshan2006profilebanner/blob/main/GithubProfileBanneronline-video-cutter.com1-ezgif.com-optimize.gif?raw=true)
+<!-- MasterHead -->
+<div align="center">
+  <img src="https://github.com/Sankarshan2006/Sankarshan2006profilebanner/blob/main/GithubProfileBanneronline-video-cutter.com1-ezgif.com-optimize.gif?raw=true" alt="MasterHead" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Sankarshan Karmakar</h1>
 <h3 align="center">A Designer,Coder and Video Editor from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankarshan2006&label=Profile%20views&color=0e75b6&style=flat" alt="sankarshan2006" /> </p>
