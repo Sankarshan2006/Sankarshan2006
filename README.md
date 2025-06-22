@@ -87,29 +87,24 @@
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankarshan2006" alt="sankarshan2006" /></a> </p>
 
 <!-- Hacker GIF on the left -->
+# 📊 GitHub Stats:
 <img align="left" alt="coding" width="200" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" />
 
-<!-- Top Languages Chart next to GIF -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankarshan2006&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Sankarshan2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sankarshan2006&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankarshan2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Add spacing so the next stat clears the floating elements -->
-<br><br><br><br><br><br><br><br><br><br><br><br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sankarshan2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Centered GitHub Stats -->
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankarshan2006&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankarshan2006&" alt="GitHub Streak Stats" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sankarshan2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sankarshan2006/Sankarshan2006snake/output/github-snake-dark.svg" alt="snake gif" />
 </p>
