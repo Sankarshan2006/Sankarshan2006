@@ -49,6 +49,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankarshan2006&" alt="GitHub Streak Stats" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sankarshan2006/Sankarshan2006snake/output/github-snake-dark.svg" alt="snake gif" />
+</p>
 
 <!-- Animated Coding GIF -->
 <div align="center">
