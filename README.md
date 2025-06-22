@@ -13,19 +13,28 @@
   </tr>
 </table>
 
+
+
+
 <hr>
 
-<!-- Profile views and follow button -->
+<!-- Badges -->
 <p align="left">
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=sankarshan2006&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/sankarshan6920" target="blank">
+  <!-- Twitter Follow -->
+  <a href="https://twitter.com/sankarshan6920" target="_blank">
     <img src="https://img.shields.io/twitter/follow/sankarshan6920?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
-</p>
 
+  <!-- GitHub Follow -->
+  <a href="https://github.com/sankarshan2006" target="_blank">
+    <img src="https://img.shields.io/github/followers/sankarshan2006?label=Follow&style=for-the-badge" alt="GitHub followers" />
+  </a>
+</p>
 
 
 
