@@ -74,7 +74,9 @@
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=DaVinciResolve&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
