@@ -40,7 +40,7 @@
 
 <p>Hi there! 👋 I'm <b>Sankarshan Karmakar</b>, a passionate tech enthusiast and a BCA student exploring the world of programming and development. I love building projects that combine creativity with logic — whether it's coding in <b>C, C++, Java, Python</b>, working with <b>MySQL</b>, or diving into <b>Web Development</b>, <b>Data Science</b>, or <b>Cybersecurity</b>.</p>
 
-<p>I'm continuously learning and experimenting with new technologies like <b>Machine Learning</b>, <b>Artificial Intelligence</b>, and <b>Cloud Computing</b>. Apart from development, I enjoy creating visual content with <b>Canva</b> and editing using <b>DaVinci Resolve</b>.</p>
+<p>I'm constantly learning and experimenting with new technologies like <b>Machine Learning</b>, <b>Artificial Intelligence</b>, and <b>Cloud Computing</b>. Apart from development, I enjoy creating visual content with <b>Canva</b> and editing using <b>DaVinci Resolve</b>.</p>
 
 <p>🔧 I'm always looking for opportunities to grow, contribute to exciting projects, and collaborate with like-minded developers. Let's connect and innovate together!</p>
 
