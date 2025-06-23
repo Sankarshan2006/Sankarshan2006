@@ -117,6 +117,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Shankar6920/)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Sankarshan%20Karmakar)
 [![Codedex](https://img.shields.io/badge/Codedex-4B8DFF?style=for-the-badge&logo=codewars&logoColor=white)](https://codedex.io/Shankar6920)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/shankar6920)
 
 ---
 
