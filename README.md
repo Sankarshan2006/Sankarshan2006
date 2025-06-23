@@ -81,14 +81,15 @@
 
 ## 🚀 Domains & Interests:
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-232f3e?style=for-the-badge&logo=HackTheBox&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-1F425F?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-000000?style=for-the-badge&logo=HackTheBox&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-323330?style=for-the-badge&logo=Jupyter&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge&logo=Codeforces&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web%20Development-4353FF?style=for-the-badge&logo=Webflow&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-0080FF?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00008B?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF0000?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-00FFFF?style=for-the-badge&logo=hackthebox&logoColor=white) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFA500?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-000000?style=for-the-badge&logo=Jupyter&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-008000?style=for-the-badge&logo=Codeforces&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-FFFF00?style=for-the-badge&logo=Webflow&logoColor=black)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-0000FF?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
 
 ---
 
