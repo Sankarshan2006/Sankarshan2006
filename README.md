@@ -32,7 +32,7 @@
 
   <!-- GitHub Follow -->
   <a href="https://github.com/sankarshan2006" target="_blank">
-    <img src="https://img.shields.io/github/followers/sankarshan2006?label=Follow&style=for-the-badge" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/sankarshan2006?label=Followers&style=for-the-badge" alt="GitHub followers" />
   </a>
 </p>
 
