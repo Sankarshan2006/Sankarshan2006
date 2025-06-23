@@ -60,6 +60,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shankar2785)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Sankarshan6920)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/shankartwitch2006)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Sankarshan-Karmakar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankarshankarmakar076@gmail.com)
 
 
@@ -116,6 +117,9 @@
 ## Online Note Making Tools & Platforms:
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Sankarshan-Karmakar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Shankar6920/)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Sankarshan%20Karmakar)
+[![Codedex](https://img.shields.io/badge/Codedex-4B8DFF?style=for-the-badge&logo=codewars&logoColor=white)](https://codedex.io/Shankar6920)
 
 ---
 
