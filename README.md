@@ -114,6 +114,12 @@
 
 ---
 
+## Online Note Making Tools & Platforms:
+
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Sankarshan-Karmakar)
+
+---
+
 ## 🎮 Gaming & Platforms:
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
