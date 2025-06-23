@@ -6,12 +6,11 @@
 <h1 align="center">Hi 👋, I'm Sankarshan Karmakar</h1>
 <h3 align="center">A Designer, Coder, and Video Editor from India.</h3>
 <!-- Images side by side using a table -->
-<table>
-  <tr>
-    <td><img alt="coding" width="450" src="https://i.pinimg.com/originals/33/20/b5/3320b511b6e6ac1a726dc237ece0509d.gif"></td>
-    <td><img alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></td>
-  </tr>
-</table>
+<div align="center">
+  <img alt="coding" width="45%" src="https://i.pinimg.com/originals/33/20/b5/3320b511b6e6ac1a726dc237ece0509d.gif">
+  <img alt="coding" width="34%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+</div>
+
 
 
 
