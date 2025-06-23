@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Sankarshan Karmakar</h1>
-<h3 align="center">A Designer,Coder and Video Editor from India.</h3>
+<h3 align="center">A Designer, Coder, and Video Editor from India.</h3>
 <!-- Images side by side using a table -->
 <table>
   <tr>
