@@ -135,14 +135,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 📝 Story/Novel Writing Platforms:
+## 📝 Story/Novel Writing Platforms: <img width="4%" src="https://24.media.tumblr.com/9dcd6bdef0ae04d9ad5fc615d921cf9e/tumblr_msu3y1JBkb1scncwdo1_500.gif">
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Sankarshan%20Karmakar)
 [![Inkitt](https://img.shields.io/badge/Inkitt-000000?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.inkitt.com/Sankarshan)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🎮 Gaming & Platforms:
+## 🎮 Gaming & Platforms: <img width="4%" src="https://static.wikia.nocookie.net/rijon/images/9/93/74.gif/revision/latest/thumbnail/width/360/height/360?cb=20231209091305">
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
