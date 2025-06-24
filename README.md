@@ -175,7 +175,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## Language Analysis Chart: <img width="4%" src="https://66.media.tumblr.com/tumblr_maorbj6OOz1rfjowdo1_500.gif">
+## 🗣 Language Analysis Chart: <img width="4%" src="https://66.media.tumblr.com/tumblr_maorbj6OOz1rfjowdo1_500.gif">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sankarshan2006&theme=gruvbox)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
