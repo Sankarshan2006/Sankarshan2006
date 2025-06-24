@@ -162,6 +162,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Sankarshan2006&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankarshan2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🌟 Profile Stats:
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sankarshan2006&theme=github_dark" />
+
+
+
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Sankarshan2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
