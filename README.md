@@ -78,7 +78,7 @@
 
 ---
  
-## 👨🏻‍💻 Tech Stack:
+## 👨🏻‍💻 Tech Stacks:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -166,8 +166,6 @@
 
 ### 🌟 Profile Stats:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sankarshan2006&theme=github_dark" />
-
-
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Sankarshan2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
