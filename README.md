@@ -37,12 +37,13 @@
   <a href="https://twitter.com/sankarshan6920" target="_blank">
     <img src="https://img.shields.io/twitter/follow/sankarshan6920?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
-
+<br>
   <!-- GitHub Follow -->
   <a href="https://github.com/sankarshan2006" target="_blank">
     <img src="https://img.shields.io/github/followers/sankarshan2006?label=Followers&style=for-the-badge" alt="GitHub followers" />
   </a>
 </p>
+</br>
 
 <h2>💻 About Me: <img width="4%" src="https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif"></h2>
 
