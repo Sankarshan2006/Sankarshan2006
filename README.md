@@ -165,7 +165,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 📈 Profile Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sankarshan2006&theme=2077) <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/33/20/b5/3320b511b6e6ac1a726dc237ece0509d.gif">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sankarshan2006&theme=2077) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
