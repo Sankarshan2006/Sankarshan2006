@@ -46,7 +46,7 @@
   </a>
 </p>
 
-<h2>💻 About Me:</h2>
+<h2>💻 About Me: <img width="4%" src="https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif"></h2>
 
 <p>Hi there! 👋 I'm <b>Sankarshan Karmakar</b>, a passionate tech enthusiast and a BCA student exploring the world of programming and development. I love building projects that combine creativity with logic — whether it's coding in <b>C, C++, Java, Python</b>, working with <b>MySQL</b>, or diving into <b>Web Development</b>, <b>Data Science</b>, or <b>Cybersecurity</b>.</p>
 
