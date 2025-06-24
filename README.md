@@ -96,6 +96,7 @@
 ![DSA](https://img.shields.io/badge/DSA-008000?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web%20Development-FFFF00?style=for-the-badge&logo=Webflow&logoColor=black)
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-0000FF?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
 
 
 ---
