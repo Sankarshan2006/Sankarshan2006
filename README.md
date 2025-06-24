@@ -3,14 +3,25 @@
   <img src="https://github.com/Sankarshan2006/Sankarshan2006profilebanner/blob/main/GithubProfileBanneronline-video-cutter.com1-ezgif.com-optimize.gif?raw=true" alt="MasterHead" />
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle;" />
-  <span style="color:#F97316;">I'm Sankarshan Karmakar</span>
-</h1>
+<!-- Heading === Greeting -->
+<div align="center">
+  <span>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=5000&color=F97316&center=true&vCenter=true&width=600&height=35&lines=Hi+%F0%9F%91%8B%2C+I'm+Sankarshan+Karmakar" alt="Typing SVG" />
+    </a>
+  </span>
+</div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=🎨+Designer;💻+Coder;🎬+Video+Editor+from+India" alt="Typing SVG" />
-</h3>
+<br/>
+
+<!-- Sub Heading === About Me -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=6000&pause=5000&color=22D3EE&center=true&vCenter=true&width=1000&height=20&lines=%F0%9F%8E%A8+Designer+%7C+%F0%9F%92%BB+Coder+%7C+%F0%9F%8E%AC+Video+Editor+from+India" alt="Typing SVG" />
+  </a>
+</div>
+
+
 
 <!-- Images side by side using a table -->
 <div align="center">
