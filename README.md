@@ -153,6 +153,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+## 👻 Other Activities: <img width="4%" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif">
+
+[![Chess.com](https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=Chess.com&logoColor=white)](https://www.chess.com/member/ShankarBP)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <!-- Hacker GIF on the left -->
 # 📊 GitHub Stats: <img width="4%" src="https://i.pinimg.com/originals/83/0b/53/830b53f8bbd0e9dbcade87da95abdad0.gif">
 <img align="left" alt="coding" width="200" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" />
