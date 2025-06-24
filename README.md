@@ -164,8 +164,11 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankarshan2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🌟 Profile Stats:
+## 🌟 Profile Stats:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sankarshan2006&theme=github_dark" />
+
+## 📊 Commits Chart:
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sankarshan2006&theme=dark&utcOffset=8)
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Sankarshan2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
