@@ -153,7 +153,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!-- Hacker GIF on the left -->
-# 📊 GitHub Stats:
+# 📊 GitHub Stats: <img width="4%" src="https://i.pinimg.com/originals/83/0b/53/830b53f8bbd0e9dbcade87da95abdad0.gif">
 <img align="left" alt="coding" width="200" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sankarshan2006&theme=nord_dark)<br/>
@@ -164,32 +164,32 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 📈 Profile Stats:
+## 📈 Profile Stats: <img width="4%" src="https://static.wikia.nocookie.net/rijon/images/2/25/125.gif/revision/latest/thumbnail/width/360/height/360?cb=20231212201145">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sankarshan2006&theme=2077) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 📊 Commits Chart:
+## 📊 Commits Chart: <img width="4%" src="https://66.media.tumblr.com/tumblr_mbc2kiKB831rfjowdo1_500.gif">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sankarshan2006&theme=github_dark&utcOffset=8)  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## Language Analysis Chart:
+## Language Analysis Chart: <img width="4%" src="https://66.media.tumblr.com/tumblr_maorbj6OOz1rfjowdo1_500.gif">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sankarshan2006&theme=gruvbox)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies: <img width="4%" src="https://i.pinimg.com/originals/b7/cf/dd/b7cfdd6d49b483b4c2f4afe3886dac35.gif">
 ![](https://github-profile-trophy.vercel.app/?username=Sankarshan2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### ✍️ Random Dev Quote:
+### ✍️ Random Dev Quote: <img width="4%" src="https://66.media.tumblr.com/3db865d1a043cbea779c7743daaac75e/tumblr_mjlg61HPuq1rfjowdo1_500.gif">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### 🔝 Top Contributed Repo:
+### 🔝 Top Contributed Repo: <img width="4%" src="https://66.media.tumblr.com/tumblr_mbc2lplnl71rfjowdo1_500.gif">
 ![](https://github-contributor-stats.vercel.app/api?username=Sankarshan2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
