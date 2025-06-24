@@ -89,7 +89,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 📦 Libraries & Frameworks: <img width="4%" src="https://media.tenor.com/6nHb-yHC2pkAAAAi/bulbasaur.gif">
+## 📦 Libraries & Frameworks: <img width="5%" src="https://media.tenor.com/6nHb-yHC2pkAAAAi/bulbasaur.gif">
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -99,7 +99,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🚀 Domains & Interests: <img width="4%" src="https://i.imgur.com/Ndkh7vv.gif">
+## 🚀 Domains & Interests: <img width="6%" src="https://i.imgur.com/Ndkh7vv.gif">
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00008B?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF0000?style=for-the-badge&logo=OpenAI&logoColor=white)
@@ -113,7 +113,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🎨 Design & Tools: <img width="4%" src="https://66.media.tumblr.com/f4225988c75dac494aa7d909c88e3293/tumblr_mm4rx8SJXL1rfjowdo1_500.gif">
+## 🎨 Design & Tools: <img width="5%" src="https://66.media.tumblr.com/f4225988c75dac494aa7d909c88e3293/tumblr_mm4rx8SJXL1rfjowdo1_500.gif">
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -143,7 +143,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🎮 Gaming & Platforms: <img width="4%" src="https://static.wikia.nocookie.net/rijon/images/9/93/74.gif/revision/latest/thumbnail/width/360/height/360?cb=20231209091305">
+## 🎮 Gaming & Platforms: <img width="5%" src="https://static.wikia.nocookie.net/rijon/images/9/93/74.gif/revision/latest/thumbnail/width/360/height/360?cb=20231209091305">
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
@@ -153,14 +153,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 👻 Other Activities: <img width="4%" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif">
+## 👻 Other Activities: <img width="6%" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif">
 
 [![Chess.com](https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=Chess.com&logoColor=white)](https://www.chess.com/member/ShankarBP)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!-- Hacker GIF on the left -->
-# 📊 GitHub Stats: <img width="4%" src="https://i.pinimg.com/originals/83/0b/53/830b53f8bbd0e9dbcade87da95abdad0.gif">
+# 📊 GitHub Stats: <img width="7%" src="https://i.pinimg.com/originals/83/0b/53/830b53f8bbd0e9dbcade87da95abdad0.gif">
 <img align="left" alt="coding" width="200" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sankarshan2006&theme=nord_dark)<br/>
@@ -171,22 +171,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 📈 Profile Stats: <img width="4%" src="https://static.wikia.nocookie.net/rijon/images/2/25/125.gif/revision/latest/thumbnail/width/360/height/360?cb=20231212201145">
+## 📈 Profile Stats: <img width="5%" src="https://static.wikia.nocookie.net/rijon/images/2/25/125.gif/revision/latest/thumbnail/width/360/height/360?cb=20231212201145">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sankarshan2006&theme=2077) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 📊 Commits Chart: <img width="4%" src="https://66.media.tumblr.com/tumblr_mbc2kiKB831rfjowdo1_500.gif">
+## 📊 Commits Chart: <img width="5%" src="https://66.media.tumblr.com/tumblr_mbc2kiKB831rfjowdo1_500.gif">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sankarshan2006&theme=github_dark&utcOffset=8)  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🗣 Language Analysis Chart: <img width="4%" src="https://66.media.tumblr.com/tumblr_maorbj6OOz1rfjowdo1_500.gif">
+## 🗣 Language Analysis Chart: <img width="7%" src="https://66.media.tumblr.com/tumblr_maorbj6OOz1rfjowdo1_500.gif">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sankarshan2006&theme=gruvbox)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🏆 GitHub Trophies: <img width="4%" src="https://i.pinimg.com/originals/b7/cf/dd/b7cfdd6d49b483b4c2f4afe3886dac35.gif">
+## 🏆 GitHub Trophies: <img width="6%" src="https://i.pinimg.com/originals/b7/cf/dd/b7cfdd6d49b483b4c2f4afe3886dac35.gif">
 ![](https://github-profile-trophy.vercel.app/?username=Sankarshan2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -196,7 +196,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### 🔝 Top Contributed Repo: <img width="4%" src="https://66.media.tumblr.com/tumblr_mbc2lplnl71rfjowdo1_500.gif">
+### 🔝 Top Contributed Repo: <img width="6%" src="https://66.media.tumblr.com/tumblr_mbc2lplnl71rfjowdo1_500.gif">
 ![](https://github-contributor-stats.vercel.app/api?username=Sankarshan2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
