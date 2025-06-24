@@ -170,6 +170,9 @@
 ## 📊 Commits Chart:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sankarshan2006&theme=github_dark&utcOffset=8)
 
+## Language Analysis Chart:
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sankarshan2006&theme=gruvbox)
+
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Sankarshan2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
