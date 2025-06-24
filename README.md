@@ -53,13 +53,13 @@
 
 <p>🔧 I'm always looking for opportunities to grow, contribute to exciting projects, and collaborate with like-minded developers. Let's connect and innovate together!</p>
 
- <img width="25" src="https://github.com/Sankarshan2006/Sankarshan2006profilebanner/blob/main/pokeball.png?raw=true">  🔭 I’m currently working on **my skills**
+ <img width="25" src="https://github.com/Sankarshan2006/Sankarshan2006profilebanner/blob/main/pokeball.png?raw=true"> I’m currently working on **my skills**
 
-<img width="25" src="https://github.com/Sankarshan2006/Sankarshan2006profilebanner/blob/main/pokeball.png?raw=true"> 🌱 I’m currently learning **Java,Canva,Davinci Resolve and SQL**
+<img width="25" src="https://github.com/Sankarshan2006/Sankarshan2006profilebanner/blob/main/pokeball.png?raw=true"> I’m currently learning **Java,Canva,Davinci Resolve and SQL**
 
-<img width="25" src="https://github.com/Sankarshan2006/Sankarshan2006profilebanner/blob/main/pokeball.png?raw=true"> 📫 How to reach me **sankarshankarmakar076@gmail.com**
+<img width="25" src="https://github.com/Sankarshan2006/Sankarshan2006profilebanner/blob/main/pokeball.png?raw=true"> How to reach me **sankarshankarmakar076@gmail.com**
 
-<img width="25" src="https://github.com/Sankarshan2006/Sankarshan2006profilebanner/blob/main/pokeball.png?raw=true"> ⚡ Fun fact: **I think I need more practice**
+<img width="25" src="https://github.com/Sankarshan2006/Sankarshan2006profilebanner/blob/main/pokeball.png?raw=true"> Fun fact: **I think I need more practice**
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
