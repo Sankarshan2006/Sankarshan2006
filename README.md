@@ -62,7 +62,7 @@
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🌐 Socials:
+## 🌐 Socials: <img width="4%" src="https://66.media.tumblr.com/tumblr_ma4ft6OXxw1rfjowdo1_500.gif">
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/sankarskarmaka)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sankarshan58)
@@ -76,7 +76,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  
-## 👨🏻‍💻 Tech Stacks:
+## 👨🏻‍💻 Tech Stacks: <img width="4%" src="https://66.media.tumblr.com/tumblr_ma0tijLFPg1rfjowdo1_500.gif">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -88,7 +88,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 📦 Libraries & Frameworks:
+## 📦 Libraries & Frameworks: <img width="4%" src="https://media.tenor.com/6nHb-yHC2pkAAAAi/bulbasaur.gif">
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -98,7 +98,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🚀 Domains & Interests:
+## 🚀 Domains & Interests: <img width="4%" src="https://i.imgur.com/Ndkh7vv.gif">
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00008B?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF0000?style=for-the-badge&logo=OpenAI&logoColor=white)
@@ -112,7 +112,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🎨 Design & Tools:
+## 🎨 Design & Tools: <img width="4%" src="https://66.media.tumblr.com/f4225988c75dac494aa7d909c88e3293/tumblr_mm4rx8SJXL1rfjowdo1_500.gif">
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -125,7 +125,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🗒 Online Note Making Tools & Platforms:
+## 🗒 Online Note Making Tools & Platforms: <img width="4%" src="https://i.gifer.com/origin/d6/d619a229aec7d154d474ace99e020d92_w200.gif">
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Sankarshan-Karmakar)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Shankar6920/)
