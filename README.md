@@ -22,8 +22,7 @@
 
 
 <!-- Images side by side using a table -->
-<div align="center">
-  <img alt="coding" width="45%" src="https://i.pinimg.com/originals/33/20/b5/3320b511b6e6ac1a726dc237ece0509d.gif">
+<div align="right">
   <img alt="coding" width="34%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </div>
 
