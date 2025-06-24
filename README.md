@@ -176,7 +176,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 📊 Commits Chart: <img width="5%" src="https://66.media.tumblr.com/tumblr_mbc2kiKB831rfjowdo1_500.gif">
+## 📊 Commits Chart: <img width="7%" src="https://66.media.tumblr.com/tumblr_mbc2kiKB831rfjowdo1_500.gif">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sankarshan2006&theme=github_dark&utcOffset=8)  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
