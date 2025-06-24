@@ -158,7 +158,7 @@
 # 📊 GitHub Stats:
 <img align="left" alt="coding" width="200" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" />
 
-![](https://github-readme-stats.vercel.app/api?username=Sankarshan2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sankarshan2006&theme=nord_dark)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Sankarshan2006&theme=dark&hide_border=false)<br/>
 
