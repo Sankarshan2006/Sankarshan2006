@@ -3,8 +3,15 @@
   <img src="https://github.com/Sankarshan2006/Sankarshan2006profilebanner/blob/main/GithubProfileBanneronline-video-cutter.com1-ezgif.com-optimize.gif?raw=true" alt="MasterHead" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Sankarshan Karmakar</h1>
-<h3 align="center">A Designer, Coder, and Video Editor from India.</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle;" />
+  <span style="color:#F97316;">I'm Sankarshan Karmakar</span>
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=🎨+Designer;💻+Coder;🎬+Video+Editor+from+India" alt="Typing SVG" />
+</h3>
+
 <!-- Images side by side using a table -->
 <div align="center">
   <img alt="coding" width="45%" src="https://i.pinimg.com/originals/33/20/b5/3320b511b6e6ac1a726dc237ece0509d.gif">
