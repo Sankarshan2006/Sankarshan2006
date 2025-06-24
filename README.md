@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  🎨 Designer &nbsp;|&nbsp; 💻 Coder &nbsp;|&nbsp; 🎬 Video Editor from <span style="color:#22D3EE;">India</span>
+  🎨 Designer &nbsp;|&nbsp; 💻 Coder &nbsp;|&nbsp; 🎬 Video Editor from India<span style="color:#22D3EE;"></span>
 </h3>
 
 
