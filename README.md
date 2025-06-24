@@ -168,7 +168,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sankarshan2006&theme=2077)
 
 ## 📊 Commits Chart:
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sankarshan2006&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sankarshan2006&theme=github_dark&utcOffset=8)
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Sankarshan2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
