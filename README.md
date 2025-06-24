@@ -52,6 +52,7 @@
 
 <p>🔧 I'm always looking for opportunities to grow, contribute to exciting projects, and collaborate with like-minded developers. Let's connect and innovate together!</p>
 
+- 🔭 I’m currently working on **my skills**
 
 - 🌱 I’m currently learning **Java,Canva,Davinci Resolve and SQL**
 
