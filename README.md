@@ -59,7 +59,7 @@
 
 - 📫 How to reach me **sankarshankarmakar076@gmail.com**
 
-- ⚡ Fun fact **I think I need more practice**
+- ⚡ Fun fact: **I think I need more practice**
 
 ---
 
