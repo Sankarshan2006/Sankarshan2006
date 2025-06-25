@@ -132,6 +132,7 @@
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Sankarshan-Karmakar)
 [![Whimsical](https://img.shields.io/badge/Whimsical-5C2D91?style=for-the-badge&logo=whimsical&logoColor=white)](https://whimsical.com/@Sankarshan%20Karmakar)
+[![Structured](https://img.shields.io/badge/Structured%20App-1E90FF?style=for-the-badge&logo=todoist&logoColor=white)](https://structured.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Shankar6920/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/sankarshankarma1)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Sankarshan%20Karmakar)
