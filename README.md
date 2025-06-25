@@ -136,6 +136,7 @@
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Sankarshan%20Karmakar)
 [![Codedex](https://img.shields.io/badge/Codedex-4B8DFF?style=for-the-badge&logo=codewars&logoColor=white)](https://codedex.io/Shankar6920)
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/shankar6920)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/sankarshankatfn)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
