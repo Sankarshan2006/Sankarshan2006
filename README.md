@@ -128,7 +128,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🗒 Online Note Making Tools & Platforms: <img width="4%" src="https://i.gifer.com/origin/d6/d619a229aec7d154d474ace99e020d92_w200.gif">
+## 🗒 Online Note Making Tools & Education Platforms: <img width="4%" src="https://i.gifer.com/origin/d6/d619a229aec7d154d474ace99e020d92_w200.gif">
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Sankarshan-Karmakar)
 [![Whimsical](https://img.shields.io/badge/Whimsical-5C2D91?style=for-the-badge&logo=whimsical&logoColor=white)](https://whimsical.com/@Sankarshan%20Karmakar)
