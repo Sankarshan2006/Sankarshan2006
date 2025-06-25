@@ -73,7 +73,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/shankartwitch2006)
 [![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Sankarshan-Karmakar)
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/shankar6920/)
-[![LottieFiles](https://img.shields.io/badge/LottieFiles-00C3FF?style=for-the-badge&logo=lottiefiles&logoColor=white)](https://lottiefiles.com/Sankarshan%20Karmakar)
+[![LottieFiles](https://img.shields.io/badge/LottieFiles-00FF00?style=for-the-badge&logo=lottiefiles&logoColor=white)](https://lottiefiles.com/Sankarshan%20Karmakar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankarshankarmakar076@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
