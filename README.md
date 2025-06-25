@@ -139,6 +139,7 @@
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/shankar6920)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/sankarshankatfn)
 [![DataCamp](https://img.shields.io/badge/DataCamp-003D5B?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/sankarshankarmakar076)
+[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/Sankarshan2006)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sankarshankarmakar)
 
 
