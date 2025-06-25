@@ -137,6 +137,9 @@
 [![Codedex](https://img.shields.io/badge/Codedex-4B8DFF?style=for-the-badge&logo=codewars&logoColor=white)](https://codedex.io/Shankar6920)
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/shankar6920)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/sankarshankatfn)
+[![DataCamp](https://img.shields.io/badge/DataCamp-003D5B?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/sankarshankarmakar076)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sankarshankarmakar)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -161,6 +164,7 @@
 
 [![Chess.com](https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=Chess.com&logoColor=white)](https://www.chess.com/member/ShankarBP)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://duolingo.com/profile/Sankarshan216544)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-FFCD00?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/Sankarshan6920)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
