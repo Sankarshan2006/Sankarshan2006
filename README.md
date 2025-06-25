@@ -131,6 +131,7 @@
 ## 🗒 Online Note Making Tools & Platforms: <img width="4%" src="https://i.gifer.com/origin/d6/d619a229aec7d154d474ace99e020d92_w200.gif">
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Sankarshan-Karmakar)
+[![Whimsical](https://img.shields.io/badge/Whimsical-5C2D91?style=for-the-badge&logo=whimsical&logoColor=white)](https://whimsical.com/@Sankarshan%20Karmakar)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Shankar6920/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/sankarshankarma1)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Sankarshan%20Karmakar)
