@@ -15,7 +15,7 @@
 <!-- Sub Heading === about me -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=6000&pause=5000&color=0BF7FF&center=true&vCenter=true&width=1000&height=20&lines=%F0%9F%8E%A8+Designer+%7C+%F0%9F%92%BB+Coder+%7C+%F0%9F%8E%AC+Video+Editor+from+India" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size30&duration=6000&pause=5000&color=0BF7FF&center=true&vCenter=true&width=1000&height=20&lines=%F0%9F%8E%A8+Designer+%7C+%F0%9F%92%BB+Coder+%7C+%F0%9F%8E%AC+Video+Editor+from+India" alt="Typing SVG" />
   </a>
 </div>
 
